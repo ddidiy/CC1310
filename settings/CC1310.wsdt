@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>SimpleUART/Debug</Project><Project>SimpleUARTRX/Debug</Project></CurrentConfigs><CurrentProj>SimpleUART</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>242</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Debug-Log>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1861</ColumnWidth1>
+      </Debug-Log>
+      <TerminalIO/>
+      <Select-Ambiguous-Definitions>
+        
+        
+        
+      <ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Select-Ambiguous-Definitions>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3460-662</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-22972-15034</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-8609-1366</Identity>
+            <TabName>Ambiguous Definitions</TabName>
+            <Factory>Select-Ambiguous-Definitions</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14208-665</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SimpleUART</ExpandedNode><ExpandedNode>SimpleUART/RF EasyLink TX</ExpandedNode><ExpandedNode>SimpleUART/RF EasyLink TX/Configuration files</ExpandedNode><ExpandedNode>SimpleUART/RF EasyLink TX/Header files</ExpandedNode><ExpandedNode>SimpleUART/RF EasyLink TX/Source files</ExpandedNode><ExpandedNode>SimpleUARTRX</ExpandedNode><ExpandedNode>SimpleUARTRX/RF EasyLink RX</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\easylink\EasyLink.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>961</YPos2><SelStart2>29335</SelStart2><SelEnd2>29347</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rfEasyLinkRx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>127</YPos2><SelStart2>4488</SelStart2><SelEnd2>4538</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\easylink\EasyLink.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>318</YPos2><SelStart2>14078</SelStart2><SelEnd2>14099</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CC1310DK_7XD.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>152</YPos2><SelStart2>4255</SelStart2><SelEnd2>4255</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CC1310DK_7XD.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>384</YPos2><SelStart2>10613</SelStart2><SelEnd2>10613</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SimpleUART_CC1310DK_7XD.icf</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>80</YPos2><SelStart2>3475</SelStart2><SelEnd2>3475</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Board.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>53</YPos2><SelStart2>2636</SelStart2><SelEnd2>2652</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rfEasyLinkTx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>230</YPos2><SelStart2>4277</SelStart2><SelEnd2>6986</SelEnd2></Tab><ActiveTab>7</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\ti\tirtos_cc13xx_cc26xx_2_16_00_08\products\tidrivers_cc13xx_cc26xx_2_16_00_08\packages\ti\drivers\UART.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>762</YPos2><SelStart2>27919</SelStart2><SelEnd2>27919</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\ti\tirtos_cc13xx_cc26xx_2_16_00_08\products\bios_6_45_01_29\packages\ti\sysbios\knl\Clock.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>748</YPos2><SelStart2>30285</SelStart2><SelEnd2>30285</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0473A980><key>iaridepm.enu1</key></Toolbar-0473A980></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>424</Bottom><Right>333</Right><x>-2</x><y>-2</y><xscreen>142</xscreen><yscreen>136</yscreen><sizeHorzCX>103953</sizeHorzCX><sizeHorzCY>198540</sizeHorzCY><sizeVertCX>245242</sizeVertCX><sizeVertCY>621898</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>216</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>218</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>318248</sizeHorzCY><sizeVertCX>103953</sizeVertCX><sizeVertCY>198540</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
